@@ -6,15 +6,23 @@
 		"Anio":"2011",
 		"Duracion":"115 minutos",
 		"Genero":"accion",
-		"img":"https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+		"img":"https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+		"video":"https://www.youtube.com/watch?v=JOddp-nlNvQ",
+		"descripcion":" El filme cuenta la historia de Thor, el príncipe heredero de Asgard, que es exiliado de su hogar a la Tierra."+
+		"Estando allí, forma una relación con Jane Foster, una científica. Sin embargo,"+
+		"Thor debe detener a su hermano adoptivo Loki, que pretende convertirse en el nuevo rey de Asgard."
 	},
 	{
 		"id":02,
-		"Titulo":"Capitan america",
-		"Anio":"2011",
+		"Titulo":"Deadpool 2",
+		"Anio":"2018",
 		"Duracion":"124 minutos",
 		"Genero":"accion",
-		"img":"https://cdn.europosters.eu/image/350/posters/marvel-captain-america-i34925.jpg"
+		"img":"https://cdn.europosters.eu/image/350/posters/marvel-captain-america-i34925.jpg",
+		"video":"https://www.youtube.com/watch?v=OVdI_1QUoVE",
+		"descripcion":"Después de sobrevivir a un ataque bovino casi mortal, el desfigurado chef de una cafetería (Wade Wilson)"+
+		"lucha por cumplir su sueño de convertirse en el barman más caliente de Mayberry mientras aprende a lidiar"+
+		"con su perdido sentido del gusto."
 	},
 	{
 		"id":03,
@@ -22,15 +30,23 @@
 		"Anio":"2017",
 		"Duracion":"135 minutos",
 		"Genero":"suspenso",
-		"img":"https://www.movienco.co.uk/carteles/10000/10014/001_p.jpg"
+		"img":"https://www.movienco.co.uk/carteles/10000/10014/001_p.jpg",
+		"video":"https://www.youtube.com/watch?v=hAUTdjf9rko",
+		"descripcion":" La película cuenta la historia de siete niños en Derry, Maine, que son aterrorizados por un ser epónimo,"+
+		"solo para hacer frente a sus propios demonios personales en el proceso."
 	},
 	{
 		"id":04,
-		"Titulo":"Click",
-		"Anio":"2006",
+		"Titulo":"Avengers: Infinity War",
+		"Anio":"2018",
 		"Duracion":"107 minutos",
 		"Genero":"comedia",
-		"img":"https://bjohnson94.files.wordpress.com/2013/01/click.jpg?w=240"
+		"img":"https://bjohnson94.files.wordpress.com/2013/01/click.jpg?w=240",
+		"video":"https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+		"descripcion":"Mientras los Vengadores y sus aliados continúan protegiendo al mundo de amenazas"+
+		"demasiado grandes para que un solo héroe las pueda manejar, un nuevo peligro emerge de entre las sombras cósmicas: "+
+		"Thanos. Como déspota de la infamia intergaláctica, su meta es recolectar las seis Gemas del Infinito,"+
+		"artefactos de inimaginable poder, y usarlas para imponer sus retorcidos deseos en toda la realidad."
 	},
 	{
 		"id":05,
@@ -38,7 +54,10 @@
 		"Anio":"2008",
 		"Duracion":"126 minutos",
 		"Genero":"accion",
-		"img":"https://3.bp.blogspot.com/-qyaN8AY-YMo/VVIIRDVpBtI/AAAAAAAAoug/9qx-dsiuMds/s275/ironman.jpg"
+		"img":"https://3.bp.blogspot.com/-qyaN8AY-YMo/VVIIRDVpBtI/AAAAAAAAoug/9qx-dsiuMds/s275/ironman.jpg",
+		"video":"https://www.youtube.com/watch?v=8hYlB38asDY",
+		"descripcion":" La trama gira en torno a Tony Stark, un empresario e ingeniero,"+
+		"que construye un exoesqueleto motorizado y se convierte en Iron Man, un superhéroe tecnológicamente avanzado."
 	}
 	]
 }
