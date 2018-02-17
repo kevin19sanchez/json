@@ -1,0 +1,44 @@
+{
+	"Peliculas":[
+	{
+		"id":01,
+		"Titulo":"Thor",
+		"Anio":"2011",
+		"Duracion":"115 minutos",
+		"Genero":"accion",
+		"img":"https://images-na.ssl-images-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+	},
+	{
+		"id":02,
+		"Titulo":"Capitan america",
+		"Anio":"2011",
+		"Duracion":"124 minutos",
+		"Genero":"accion",
+		"img":"https://cdn.europosters.eu/image/350/posters/marvel-captain-america-i34925.jpg"
+	},
+	{
+		"id":03,
+		"Titulo":"It",
+		"Anio":"2017",
+		"Duracion":"135 minutos",
+		"Genero":"suspenso",
+		"img":"https://www.movienco.co.uk/carteles/10000/10014/001_p.jpg"
+	},
+	{
+		"id":04,
+		"Titulo":"Click",
+		"Anio":"2006",
+		"Duracion":"107 minutos",
+		"Genero":"comedia",
+		"img":"https://bjohnson94.files.wordpress.com/2013/01/click.jpg?w=240"
+	},
+	{
+		"id":05,
+		"Titulo":"Iron man",
+		"Anio":"2008",
+		"Duracion":"126 minutos",
+		"Genero":"accion",
+		"img":"https://3.bp.blogspot.com/-qyaN8AY-YMo/VVIIRDVpBtI/AAAAAAAAoug/9qx-dsiuMds/s275/ironman.jpg"
+	}
+	]
+}
